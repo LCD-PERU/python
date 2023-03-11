@@ -8,6 +8,7 @@ _apellido_materno =  input("Ingrese su apellido materno :")
 #_nombres_completo = _nombre + _apellido  
 #print("Mi nombre es :" + _nombres_completo + "tengo :" + str(_edad) + " años")
 _nombre_completo = _nombre + " " + _apellido_paterno + " " + _apellido_materno
-print("Hola estiamdo "+ _nombre_completo +  " Bienvenido al curso de Python")
----
----
+print("Hola estiamdo "+ _nombre_completo +  " Bienvenido al curso de Python");
+/*
+
+*/
